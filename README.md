@@ -3,6 +3,9 @@ This repository includes the MATLAB files comprising the implementation of the H
 
 It is an unsupervised cross-modal retrieval framework based on associative learning where two traditional SOMs are trained separately for images and collateral text and then they are associated together using the Hebbian learning network to facilitate the cross-modal retrieval process.
 
+HSOM technique has been tested on popular Wikipedia dataset. To know more about the data and to download it, refer to the link: http://www.svcl.ucsd.edu/projects/crossmodal/
+Raw features (comprising SIFT features for images and LDA for text) has been included in Wikipedia dataset raw features folder. 
+
 If you find this repository useful, please cite the below article. 
 
 @article{kaur2022hybrid,

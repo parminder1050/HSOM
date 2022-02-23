@@ -1,5 +1,5 @@
 # Hybrid SOM based cross-modal retrieval exploiting Hebbian learning
-This repository includes the MATLAB files comprising the implementation of the HSOM approach for cross-modal information retrieval. 
+This repository includes the MATLAB file "hebb.m" comprising the implementation of the HSOM approach for cross-modal information retrieval. The images present in the repository helps in understanding the technique and the process followed.
 
 It is an unsupervised cross-modal retrieval framework based on associative learning where two traditional SOMs are trained separately for images and collateral text and then they are associated together using the Hebbian learning network to facilitate the cross-modal retrieval process.
 
